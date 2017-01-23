@@ -107,10 +107,13 @@ public class DFS {
 
         Graph<String> g = new Graph<>(vertices, edges);
 
+        System.out.println("********* USING STACK DFS *******************");
+        dfs(g, ROSHAN);
+        System.out.println("*********************************************");
 
-        //DFS<String> dfs = new DFS<>();
-        //dfs(g, ROSHAN);
-
+        System.out.println("********* USING RECURSION ******************");
         dfsRecurssive(g, BHAVIK_AMABNI);
+        System.out.println("*********************************************");
+
     }
 }

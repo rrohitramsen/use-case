@@ -104,9 +104,7 @@ public class BFS {
         edges.add(new Graph.Edge(0,BIHAR, GAURI_SHANKAR));
 
         Graph<String> g = new Graph<>(vertices, edges);
-        bfs(g, RASHID);
-
-        //bfs(g, ROSHAN);
+        bfs(g, RASHID); 
     }
 
 }
