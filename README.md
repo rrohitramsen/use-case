@@ -1,9 +1,9 @@
 # Use Cases
 
-1. Graph - Abstract Data Type
-   Implementation - Graph implementaion using Adjency List in Java.
+# Graph Implmentation
+1. Graph Implementaion using Adjacency List in Java.
 
-2. Graph Traverse -
-   DFS - Depth First Search
-   BFS - Breadth First Search
+# Graph Traverse -
+1. DFS - Depth First Search
+2. BFS - Breadth First Search
    
